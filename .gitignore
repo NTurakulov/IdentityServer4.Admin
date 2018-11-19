@@ -272,6 +272,7 @@ __pycache__/
 # tools/
 /src/Skoruba.IdentityServer4.Admin/appsettings.production.json
 /src/Skoruba.IdentityServer4.Admin/Scripts/Libs/
+/src/Skoruba.IdentityServer4.Admin/Migrations/
 /src/Skoruba.IdentityServer4.Admin/Data/Migrations/
 
 # Don't ignore these log folders
